@@ -1,3 +1,4 @@
+using SOLIDPrinciples.OCP.WithOCP;
 using System;
 using System.Collections.Generic;
 
@@ -41,8 +42,8 @@ namespace SOLIDPrinciples.OCP.WithoutOCP
             {
                 return Math.PI * circle.Radius * circle.Radius;
             }
-        
-            throw new ArgumentException("Unsupported shape type");
+
+                throw new ArgumentException("Unsupported shape type");
         }
     }
 

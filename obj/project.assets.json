@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vikassharma\\OneDrive - Microsoft\\Projects\\EMS\\SOLIDPrinciples.csproj",
+      "projectUniqueName": "C:\\Users\\vikassharma\\OneDrive - Microsoft\\Documents\\Bosscoder\\Classes\\LLD\\SOLID-Principle\\SOLIDPrinciples.csproj",
       "projectName": "SOLIDPrinciples",
-      "projectPath": "C:\\Users\\vikassharma\\OneDrive - Microsoft\\Projects\\EMS\\SOLIDPrinciples.csproj",
+      "projectPath": "C:\\Users\\vikassharma\\OneDrive - Microsoft\\Documents\\Bosscoder\\Classes\\LLD\\SOLID-Principle\\SOLIDPrinciples.csproj",
       "packagesPath": "C:\\Users\\vikassharma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vikassharma\\OneDrive - Microsoft\\Projects\\EMS\\obj\\",
+      "outputPath": "C:\\Users\\vikassharma\\OneDrive - Microsoft\\Documents\\Bosscoder\\Classes\\LLD\\SOLID-Principle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

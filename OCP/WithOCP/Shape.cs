@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-
 namespace SOLIDPrinciples.OCP.WithOCP
 {
     // This example follows the Open/Closed Principle by using an abstraction (IShape)
